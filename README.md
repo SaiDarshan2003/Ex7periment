@@ -1,4 +1,4 @@
-# Experiment 7
+# Experiment 20
 
 ## Aim:
 To perform aggregate functions on table.
