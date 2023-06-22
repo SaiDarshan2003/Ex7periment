@@ -75,5 +75,11 @@ FROM Books
 GROUP BY BookType  
 ORDER BY BookType 
 ```
+
+## Output:
+
+![image](https://github.com/SaiDarshan2003/Ex7periment/assets/94692595/92061aad-f5c6-4f04-8786-d5e3c4bcee62)
+
+
 ## Result:
 Therefore we have successfully performed aggregate functions on table.
